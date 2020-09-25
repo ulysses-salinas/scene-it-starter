@@ -2,7 +2,7 @@
 
 ## Overview
 
-Scene-It is a front-end watchlist generating application for television, film, and apparently videogames.
+Scene-It is a front-end watchlist generating application for television, film, and videogames.
 HTTP requests made via Axios to the Open Movie Database API returns rendered results onto the DOM, 
 and allows for quick additions to a watchlist saved onto localStorage. The watchlist will store 
 the selections added until removed from the list or until localStorage is deleted. This project has been 
